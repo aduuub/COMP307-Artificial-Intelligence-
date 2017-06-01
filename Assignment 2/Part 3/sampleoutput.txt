@@ -1,0 +1,43 @@
+Loading variables:
+Clump Thickness
+Uniformity of Cell Size
+Uniformity of Cell Shape
+Marginal Adhesion
+Single Epithelial Cell Size
+Bare Nuclei
+Bland Chromatin
+Normal Nucleoli
+Mitoses
+---     Finished loading variables      ---
+[JGAP][15:17:52] INFO GPGenotype - Creating initial population
+[JGAP][15:17:52] INFO GPGenotype - Mem free: 245.5 MB
+[JGAP][15:17:52] INFO GPPopulation - Prototype program set
+[JGAP][15:17:53] INFO GPGenotype - Mem free after creating population: 245.5 MB
+[JGAP][15:17:53] INFO GPGenotype - Your configuration does not contain unused commands, this is good
+[JGAP][15:17:53] INFO GPGenotype - Best solution fitness: 0.06
+[JGAP][15:17:53] INFO GPGenotype - Best solution: ((Mitoses * Uniformity of Cell Size) - (6.0 + Uniformity of Cell Size)) + ((Single Epithelial Cell Size + Uniformity of Cell Shape) * (((Clump Thickness - 6.0) + Uniformity of Cell Size) + Marginal Adhesion))
+[JGAP][15:17:53] INFO GPGenotype - Depth of chrom: 5
+Evolving generation 0, memory free: 219.1 MB, Fittest program: 0.06017191977077364
+[JGAP][15:17:53] INFO GPGenotype - Best solution fitness: 0.05
+[JGAP][15:17:53] INFO GPGenotype - Best solution: ((Clump Thickness - 6.0) + (Bare Nuclei - 4.0)) + Normal Nucleoli
+[JGAP][15:17:53] INFO GPGenotype - Depth of chrom: 3
+[JGAP][15:17:54] INFO GPGenotype - Best solution fitness: 0.03
+[JGAP][15:17:54] INFO GPGenotype - Best solution: (Clump Thickness - 3.0) + ((Bare Nuclei - 6.0) + Uniformity of Cell Size)
+[JGAP][15:17:54] INFO GPGenotype - Depth of chrom: 3
+[JGAP][15:17:54] INFO GPGenotype - Best solution fitness: 0.03
+[JGAP][15:17:54] INFO GPGenotype - Best solution: (Uniformity of Cell Shape - 7.0) + (((Single Epithelial Cell Size / 5.0) * ((((Uniformity of Cell Shape + Normal Nucleoli) - 3.0) * Bare Nuclei) - 3.0)) + Uniformity of Cell Size)
+[JGAP][15:17:54] INFO GPGenotype - Depth of chrom: 7
+Evolving generation 25, memory free: 213.6 MB, Fittest program: 0.034383954154727794
+[JGAP][15:17:55] INFO GPGenotype - Best solution fitness: 0.03
+[JGAP][15:17:55] INFO GPGenotype - Best solution: (Marginal Adhesion * Bare Nuclei) + ((Clump Thickness - 5.0) + ((((Uniformity of Cell Shape - 7.0) - 7.0) + Uniformity of Cell Size) + Normal Nucleoli))
+[JGAP][15:17:55] INFO GPGenotype - Depth of chrom: 6
+[JGAP][15:17:55] INFO GPGenotype - Best solution fitness: 0.02
+[JGAP][15:17:55] INFO GPGenotype - Best solution: ((((Clump Thickness - 7.0) + (Marginal Adhesion * Bare Nuclei)) + ((Uniformity of Cell Shape - 6.0) + Uniformity of Cell Size)) + Normal Nucleoli) - 5.0
+[JGAP][15:17:55] INFO GPGenotype - Depth of chrom: 5
+
+After 30 evolutions the program had a fitness of: 0.025787965616045846
+[JGAP][15:17:55] INFO GPGenotype - Best solution fitness: 0.02
+[JGAP][15:17:55] INFO GPGenotype - Best solution: ((((Clump Thickness - 7.0) + (Marginal Adhesion * Bare Nuclei)) + ((Uniformity of Cell Shape - 6.0) + Uniformity of Cell Size)) + Normal Nucleoli) - 5.0
+[JGAP][15:17:55] INFO GPGenotype - Depth of chrom: 5
+
+Percentage of test instances correctly classified: 97.13467048710602

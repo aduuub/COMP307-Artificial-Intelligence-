@@ -1,0 +1,39 @@
+[JGAP][13:07:49] INFO GPGenotype - Creating initial population
+[JGAP][13:07:49] INFO GPGenotype - Mem free: 245.5 MB
+[JGAP][13:07:49] INFO GPPopulation - Prototype program set
+[JGAP][13:07:49] INFO GPGenotype - Mem free after creating population: 245.5 MB
+[JGAP][13:07:49] INFO GPGenotype - Your configuration does not contain unused commands, this is good
+[JGAP][13:07:49] INFO GPGenotype - Best solution fitness: 63.92
+[JGAP][13:07:49] INFO GPGenotype - Best solution: X * (X * (4.0 - X))
+[JGAP][13:07:49] INFO GPGenotype - Depth of chrom: 3
+Evolving generation 0, memory free: 224.2 MB, Fittest program: 63.921890000000005
+[JGAP][13:07:49] INFO GPGenotype - Best solution fitness: 60.42
+[JGAP][13:07:49] INFO GPGenotype - Best solution: ((4.0 - 2.0) * (X - X)) - ((X * X) * (X - 5.0))
+[JGAP][13:07:49] INFO GPGenotype - Depth of chrom: 3
+[JGAP][13:07:49] INFO GPGenotype - Best solution fitness: 54.42
+[JGAP][13:07:49] INFO GPGenotype - Best solution: ((5.0 - X) * (X * X)) - X
+[JGAP][13:07:49] INFO GPGenotype - Depth of chrom: 3
+[JGAP][13:07:50] INFO GPGenotype - Best solution fitness: 49.49
+[JGAP][13:07:50] INFO GPGenotype - Best solution: ((X * X) - X) * 4.0
+[JGAP][13:07:50] INFO GPGenotype - Depth of chrom: 3
+Evolving generation 25, memory free: 281.0 MB, Fittest program: 49.492180000000005
+[JGAP][13:07:50] INFO GPGenotype - Best solution fitness: 20.00
+[JGAP][13:07:50] INFO GPGenotype - Best solution: (((X * X) * (X - 2.0)) * X) + (X * X)
+[JGAP][13:07:50] INFO GPGenotype - Depth of chrom: 4
+[JGAP][13:07:50] INFO GPGenotype - Best solution fitness: 18.12
+[JGAP][13:07:50] INFO GPGenotype - Best solution: (((X * X) * (X - 2.0)) * X) + ((X / 4.0) + (X * X))
+[JGAP][13:07:50] INFO GPGenotype - Depth of chrom: 4
+Evolving generation 50, memory free: 395.5 MB, Fittest program: 18.1250375
+[JGAP][13:07:50] INFO GPGenotype - Best solution fitness: 5.00
+[JGAP][13:07:50] INFO GPGenotype - Best solution: (((X * X) - X) * ((X * X) - X)) + (3.0 / 4.0)
+[JGAP][13:07:50] INFO GPGenotype - Depth of chrom: 4
+[JGAP][13:07:51] INFO GPGenotype - Best solution fitness: 0.0
+[JGAP][13:07:51] INFO GPGenotype - Best solution: (((X * X) - X) * ((X * X) - X)) + (4.0 / 4.0)
+[JGAP][13:07:51] INFO GPGenotype - Depth of chrom: 4
+
+After 66 evolutions the program had a fitness of: 0.0
+[JGAP][13:07:51] INFO GPGenotype - Best solution fitness: 0.0
+[JGAP][13:07:51] INFO GPGenotype - Best solution: (((X * X) - X) * ((X * X) - X)) + (4.0 / 4.0)
+[JGAP][13:07:51] INFO GPGenotype - Depth of chrom: 4
+
+Process finished with exit code 0

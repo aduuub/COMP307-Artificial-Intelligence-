@@ -1,0 +1,255 @@
+Loading training files: spamLabelled.dat and spamUnlabelled.dat
+Loaded 200 instances of training data.
+Loaded 10 instances of test data.
+
+-----   Training Data   -----
+
+Probability Spam: 16.991%, Probability Not spam: 83.009%. Probably: Not Spam.
+Probability Spam: 96.507%, Probability Not spam: 3.493%. Probably: Spam.
+Probability Spam: 66.842%, Probability Not spam: 33.158%. Probably: Spam.
+Probability Spam: 5.334%, Probability Not spam: 94.666%. Probably: Not Spam.
+Probability Spam: 84.256%, Probability Not spam: 15.744%. Probably: Spam.
+Probability Spam: 61.735%, Probability Not spam: 38.265%. Probably: Spam.
+Probability Spam: 90.596%, Probability Not spam: 9.404%. Probably: Spam.
+Probability Spam: 96.693%, Probability Not spam: 3.307%. Probably: Spam.
+Probability Spam: 13.835%, Probability Not spam: 86.165%. Probably: Not Spam.
+Probability Spam: 95.818%, Probability Not spam: 4.182%. Probably: Spam.
+Probability Spam: 65.844%, Probability Not spam: 34.156%. Probably: Spam.
+Probability Spam: 68.101%, Probability Not spam: 31.899%. Probably: Spam.
+Probability Spam: 34.141%, Probability Not spam: 65.859%. Probably: Not Spam.
+Probability Spam: 78.295%, Probability Not spam: 21.705%. Probably: Spam.
+Probability Spam: 41.462%, Probability Not spam: 58.538%. Probably: Not Spam.
+Probability Spam: 80.827%, Probability Not spam: 19.173%. Probably: Spam.
+Probability Spam: 29.655%, Probability Not spam: 70.345%. Probably: Not Spam.
+Probability Spam: 78.713%, Probability Not spam: 21.287%. Probably: Spam.
+Probability Spam: 84.266%, Probability Not spam: 15.734%. Probably: Spam.
+Probability Spam: 19.429%, Probability Not spam: 80.571%. Probably: Not Spam.
+Probability Spam: 95.818%, Probability Not spam: 4.182%. Probably: Spam.
+Probability Spam: 32.909%, Probability Not spam: 67.091%. Probably: Not Spam.
+Probability Spam: 78.813%, Probability Not spam: 21.187%. Probably: Spam.
+Probability Spam: 84.411%, Probability Not spam: 15.589%. Probably: Spam.
+Probability Spam: 42.276%, Probability Not spam: 57.724%. Probably: Not Spam.
+Probability Spam: 76.714%, Probability Not spam: 23.286%. Probably: Spam.
+Probability Spam: 12.315%, Probability Not spam: 87.685%. Probably: Not Spam.
+Probability Spam: 85.801%, Probability Not spam: 14.199%. Probably: Spam.
+Probability Spam: 52.566%, Probability Not spam: 47.434%. Probably: Spam.
+Probability Spam: 8.471%, Probability Not spam: 91.529%. Probably: Not Spam.
+Probability Spam: 76.940%, Probability Not spam: 23.060%. Probably: Spam.
+Probability Spam: 56.289%, Probability Not spam: 43.711%. Probably: Spam.
+Probability Spam: 14.801%, Probability Not spam: 85.199%. Probably: Not Spam.
+Probability Spam: 11.092%, Probability Not spam: 88.908%. Probably: Not Spam.
+Probability Spam: 96.351%, Probability Not spam: 3.649%. Probably: Spam.
+Probability Spam: 88.052%, Probability Not spam: 11.948%. Probably: Spam.
+Probability Spam: 33.164%, Probability Not spam: 66.836%. Probably: Not Spam.
+Probability Spam: 65.727%, Probability Not spam: 34.273%. Probably: Spam.
+Probability Spam: 75.548%, Probability Not spam: 24.452%. Probably: Spam.
+Probability Spam: 10.365%, Probability Not spam: 89.635%. Probably: Not Spam.
+Probability Spam: 48.038%, Probability Not spam: 51.962%. Probably: Not Spam.
+Probability Spam: 95.795%, Probability Not spam: 4.205%. Probably: Spam.
+Probability Spam: 75.250%, Probability Not spam: 24.750%. Probably: Spam.
+Probability Spam: 78.574%, Probability Not spam: 21.426%. Probably: Spam.
+Probability Spam: 94.737%, Probability Not spam: 5.263%. Probably: Spam.
+Probability Spam: 94.687%, Probability Not spam: 5.313%. Probably: Spam.
+Probability Spam: 63.013%, Probability Not spam: 36.987%. Probably: Spam.
+Probability Spam: 20.108%, Probability Not spam: 79.892%. Probably: Not Spam.
+Probability Spam: 92.828%, Probability Not spam: 7.172%. Probably: Spam.
+Probability Spam: 96.351%, Probability Not spam: 3.649%. Probably: Spam.
+Probability Spam: 4.653%, Probability Not spam: 95.347%. Probably: Not Spam.
+Probability Spam: 4.317%, Probability Not spam: 95.683%. Probably: Not Spam.
+Probability Spam: 0.555%, Probability Not spam: 99.445%. Probably: Not Spam.
+Probability Spam: 2.761%, Probability Not spam: 97.239%. Probably: Not Spam.
+Probability Spam: 1.040%, Probability Not spam: 98.960%. Probably: Not Spam.
+Probability Spam: 4.859%, Probability Not spam: 95.141%. Probably: Not Spam.
+Probability Spam: 61.139%, Probability Not spam: 38.861%. Probably: Spam.
+Probability Spam: 0.531%, Probability Not spam: 99.469%. Probably: Not Spam.
+Probability Spam: 40.050%, Probability Not spam: 59.950%. Probably: Not Spam.
+Probability Spam: 0.995%, Probability Not spam: 99.005%. Probably: Not Spam.
+Probability Spam: 1.876%, Probability Not spam: 98.124%. Probably: Not Spam.
+Probability Spam: 7.990%, Probability Not spam: 92.010%. Probably: Not Spam.
+Probability Spam: 2.636%, Probability Not spam: 97.364%. Probably: Not Spam.
+Probability Spam: 5.582%, Probability Not spam: 94.418%. Probably: Not Spam.
+Probability Spam: 6.497%, Probability Not spam: 93.503%. Probably: Not Spam.
+Probability Spam: 6.681%, Probability Not spam: 93.319%. Probably: Not Spam.
+Probability Spam: 0.914%, Probability Not spam: 99.086%. Probably: Not Spam.
+Probability Spam: 7.007%, Probability Not spam: 92.993%. Probably: Not Spam.
+Probability Spam: 0.416%, Probability Not spam: 99.584%. Probably: Not Spam.
+Probability Spam: 8.064%, Probability Not spam: 91.936%. Probably: Not Spam.
+Probability Spam: 54.216%, Probability Not spam: 45.784%. Probably: Spam.
+Probability Spam: 22.034%, Probability Not spam: 77.966%. Probably: Not Spam.
+Probability Spam: 28.918%, Probability Not spam: 71.082%. Probably: Not Spam.
+Probability Spam: 8.970%, Probability Not spam: 91.030%. Probably: Not Spam.
+Probability Spam: 11.036%, Probability Not spam: 88.964%. Probably: Not Spam.
+Probability Spam: 11.150%, Probability Not spam: 88.850%. Probably: Not Spam.
+Probability Spam: 6.226%, Probability Not spam: 93.774%. Probably: Not Spam.
+Probability Spam: 8.135%, Probability Not spam: 91.865%. Probably: Not Spam.
+Probability Spam: 1.255%, Probability Not spam: 98.745%. Probably: Not Spam.
+Probability Spam: 0.284%, Probability Not spam: 99.716%. Probably: Not Spam.
+Probability Spam: 0.147%, Probability Not spam: 99.853%. Probably: Not Spam.
+Probability Spam: 27.200%, Probability Not spam: 72.800%. Probably: Not Spam.
+Probability Spam: 5.569%, Probability Not spam: 94.431%. Probably: Not Spam.
+Probability Spam: 0.090%, Probability Not spam: 99.910%. Probably: Not Spam.
+Probability Spam: 1.245%, Probability Not spam: 98.755%. Probably: Not Spam.
+Probability Spam: 0.643%, Probability Not spam: 99.357%. Probably: Not Spam.
+Probability Spam: 6.491%, Probability Not spam: 93.509%. Probably: Not Spam.
+Probability Spam: 28.714%, Probability Not spam: 71.286%. Probably: Not Spam.
+Probability Spam: 4.964%, Probability Not spam: 95.036%. Probably: Not Spam.
+Probability Spam: 3.860%, Probability Not spam: 96.140%. Probably: Not Spam.
+Probability Spam: 0.759%, Probability Not spam: 99.241%. Probably: Not Spam.
+Probability Spam: 14.099%, Probability Not spam: 85.901%. Probably: Not Spam.
+Probability Spam: 12.654%, Probability Not spam: 87.346%. Probably: Not Spam.
+Probability Spam: 28.918%, Probability Not spam: 71.082%. Probably: Not Spam.
+Probability Spam: 4.433%, Probability Not spam: 95.567%. Probably: Not Spam.
+Probability Spam: 34.389%, Probability Not spam: 65.611%. Probably: Not Spam.
+Probability Spam: 4.326%, Probability Not spam: 95.674%. Probably: Not Spam.
+Probability Spam: 0.753%, Probability Not spam: 99.247%. Probably: Not Spam.
+Probability Spam: 3.164%, Probability Not spam: 96.836%. Probably: Not Spam.
+Probability Spam: 9.928%, Probability Not spam: 90.072%. Probably: Not Spam.
+Probability Spam: 1.289%, Probability Not spam: 98.711%. Probably: Not Spam.
+Probability Spam: 0.337%, Probability Not spam: 99.663%. Probably: Not Spam.
+Probability Spam: 0.284%, Probability Not spam: 99.716%. Probably: Not Spam.
+Probability Spam: 11.524%, Probability Not spam: 88.476%. Probably: Not Spam.
+Probability Spam: 1.845%, Probability Not spam: 98.155%. Probably: Not Spam.
+Probability Spam: 5.898%, Probability Not spam: 94.102%. Probably: Not Spam.
+Probability Spam: 5.221%, Probability Not spam: 94.779%. Probably: Not Spam.
+Probability Spam: 41.764%, Probability Not spam: 58.236%. Probably: Not Spam.
+Probability Spam: 24.369%, Probability Not spam: 75.631%. Probably: Not Spam.
+Probability Spam: 3.360%, Probability Not spam: 96.640%. Probably: Not Spam.
+Probability Spam: 7.325%, Probability Not spam: 92.675%. Probably: Not Spam.
+Probability Spam: 9.049%, Probability Not spam: 90.951%. Probably: Not Spam.
+Probability Spam: 14.448%, Probability Not spam: 85.552%. Probably: Not Spam.
+Probability Spam: 16.633%, Probability Not spam: 83.367%. Probably: Not Spam.
+Probability Spam: 3.695%, Probability Not spam: 96.305%. Probably: Not Spam.
+Probability Spam: 6.944%, Probability Not spam: 93.056%. Probably: Not Spam.
+Probability Spam: 0.343%, Probability Not spam: 99.657%. Probably: Not Spam.
+Probability Spam: 7.926%, Probability Not spam: 92.074%. Probably: Not Spam.
+Probability Spam: 1.665%, Probability Not spam: 98.335%. Probably: Not Spam.
+Probability Spam: 14.604%, Probability Not spam: 85.396%. Probably: Not Spam.
+Probability Spam: 15.121%, Probability Not spam: 84.879%. Probably: Not Spam.
+Probability Spam: 3.062%, Probability Not spam: 96.938%. Probably: Not Spam.
+Probability Spam: 30.129%, Probability Not spam: 69.871%. Probably: Not Spam.
+Probability Spam: 0.149%, Probability Not spam: 99.851%. Probably: Not Spam.
+Probability Spam: 8.596%, Probability Not spam: 91.404%. Probably: Not Spam.
+Probability Spam: 46.626%, Probability Not spam: 53.374%. Probably: Not Spam.
+Probability Spam: 0.095%, Probability Not spam: 99.905%. Probably: Not Spam.
+Probability Spam: 5.139%, Probability Not spam: 94.861%. Probably: Not Spam.
+Probability Spam: 1.005%, Probability Not spam: 98.995%. Probably: Not Spam.
+Probability Spam: 0.458%, Probability Not spam: 99.542%. Probably: Not Spam.
+Probability Spam: 6.709%, Probability Not spam: 93.291%. Probably: Not Spam.
+Probability Spam: 89.506%, Probability Not spam: 10.494%. Probably: Spam.
+Probability Spam: 3.951%, Probability Not spam: 96.049%. Probably: Not Spam.
+Probability Spam: 0.812%, Probability Not spam: 99.188%. Probably: Not Spam.
+Probability Spam: 0.860%, Probability Not spam: 99.140%. Probably: Not Spam.
+Probability Spam: 11.846%, Probability Not spam: 88.154%. Probably: Not Spam.
+Probability Spam: 14.677%, Probability Not spam: 85.323%. Probably: Not Spam.
+Probability Spam: 4.492%, Probability Not spam: 95.508%. Probably: Not Spam.
+Probability Spam: 2.999%, Probability Not spam: 97.001%. Probably: Not Spam.
+Probability Spam: 3.701%, Probability Not spam: 96.299%. Probably: Not Spam.
+Probability Spam: 1.076%, Probability Not spam: 98.924%. Probably: Not Spam.
+Probability Spam: 1.428%, Probability Not spam: 98.572%. Probably: Not Spam.
+Probability Spam: 10.598%, Probability Not spam: 89.402%. Probably: Not Spam.
+Probability Spam: 3.737%, Probability Not spam: 96.263%. Probably: Not Spam.
+Probability Spam: 16.757%, Probability Not spam: 83.243%. Probably: Not Spam.
+Probability Spam: 53.147%, Probability Not spam: 46.853%. Probably: Spam.
+Probability Spam: 69.562%, Probability Not spam: 30.438%. Probably: Spam.
+Probability Spam: 29.461%, Probability Not spam: 70.539%. Probably: Not Spam.
+Probability Spam: 46.021%, Probability Not spam: 53.979%. Probably: Not Spam.
+Probability Spam: 0.747%, Probability Not spam: 99.253%. Probably: Not Spam.
+Probability Spam: 47.608%, Probability Not spam: 52.392%. Probably: Not Spam.
+Probability Spam: 1.932%, Probability Not spam: 98.068%. Probably: Not Spam.
+Probability Spam: 0.143%, Probability Not spam: 99.857%. Probably: Not Spam.
+Probability Spam: 37.328%, Probability Not spam: 62.672%. Probably: Not Spam.
+Probability Spam: 85.502%, Probability Not spam: 14.498%. Probably: Spam.
+Probability Spam: 2.389%, Probability Not spam: 97.611%. Probably: Not Spam.
+Probability Spam: 6.681%, Probability Not spam: 93.319%. Probably: Not Spam.
+Probability Spam: 3.513%, Probability Not spam: 96.487%. Probably: Not Spam.
+Probability Spam: 41.387%, Probability Not spam: 58.613%. Probably: Not Spam.
+Probability Spam: 2.918%, Probability Not spam: 97.082%. Probably: Not Spam.
+Probability Spam: 18.596%, Probability Not spam: 81.404%. Probably: Not Spam.
+Probability Spam: 28.014%, Probability Not spam: 71.986%. Probably: Not Spam.
+Probability Spam: 31.694%, Probability Not spam: 68.306%. Probably: Not Spam.
+Probability Spam: 21.358%, Probability Not spam: 78.642%. Probably: Not Spam.
+Probability Spam: 54.437%, Probability Not spam: 45.563%. Probably: Spam.
+Probability Spam: 4.765%, Probability Not spam: 95.235%. Probably: Not Spam.
+Probability Spam: 23.637%, Probability Not spam: 76.363%. Probably: Not Spam.
+Probability Spam: 0.245%, Probability Not spam: 99.755%. Probably: Not Spam.
+Probability Spam: 8.168%, Probability Not spam: 91.832%. Probably: Not Spam.
+Probability Spam: 11.820%, Probability Not spam: 88.180%. Probably: Not Spam.
+Probability Spam: 28.094%, Probability Not spam: 71.906%. Probably: Not Spam.
+Probability Spam: 0.963%, Probability Not spam: 99.037%. Probably: Not Spam.
+Probability Spam: 2.580%, Probability Not spam: 97.420%. Probably: Not Spam.
+Probability Spam: 1.313%, Probability Not spam: 98.687%. Probably: Not Spam.
+Probability Spam: 60.294%, Probability Not spam: 39.706%. Probably: Spam.
+Probability Spam: 7.309%, Probability Not spam: 92.691%. Probably: Not Spam.
+Probability Spam: 34.971%, Probability Not spam: 65.029%. Probably: Not Spam.
+Probability Spam: 1.289%, Probability Not spam: 98.711%. Probably: Not Spam.
+Probability Spam: 3.168%, Probability Not spam: 96.832%. Probably: Not Spam.
+Probability Spam: 0.461%, Probability Not spam: 99.539%. Probably: Not Spam.
+Probability Spam: 8.366%, Probability Not spam: 91.634%. Probably: Not Spam.
+Probability Spam: 24.768%, Probability Not spam: 75.232%. Probably: Not Spam.
+Probability Spam: 0.835%, Probability Not spam: 99.165%. Probably: Not Spam.
+Probability Spam: 0.224%, Probability Not spam: 99.776%. Probably: Not Spam.
+Probability Spam: 7.854%, Probability Not spam: 92.146%. Probably: Not Spam.
+Probability Spam: 3.271%, Probability Not spam: 96.729%. Probably: Not Spam.
+Probability Spam: 0.209%, Probability Not spam: 99.791%. Probably: Not Spam.
+Probability Spam: 6.150%, Probability Not spam: 93.850%. Probably: Not Spam.
+Probability Spam: 31.096%, Probability Not spam: 68.904%. Probably: Not Spam.
+Probability Spam: 1.228%, Probability Not spam: 98.772%. Probably: Not Spam.
+Probability Spam: 4.352%, Probability Not spam: 95.648%. Probably: Not Spam.
+Probability Spam: 8.742%, Probability Not spam: 91.258%. Probably: Not Spam.
+Probability Spam: 25.510%, Probability Not spam: 74.490%. Probably: Not Spam.
+Probability Spam: 6.195%, Probability Not spam: 93.805%. Probably: Not Spam.
+Probability Spam: 1.144%, Probability Not spam: 98.856%. Probably: Not Spam.
+Probability Spam: 22.006%, Probability Not spam: 77.994%. Probably: Not Spam.
+Probability Spam: 12.329%, Probability Not spam: 87.671%. Probably: Not Spam.
+Probability Spam: 4.518%, Probability Not spam: 95.482%. Probably: Not Spam.
+Probability Spam: 16.852%, Probability Not spam: 83.148%. Probably: Not Spam.
+Probability Spam: 1.962%, Probability Not spam: 98.038%. Probably: Not Spam.
+
+I got 174 correct out of 200. That is 87.00% correct.
+
+-----   Finished Running Training Data   -----
+
+-----   Printing features values from the training data    -----
+
+                      Spam   Not Spam
+Feature  1 (True) :   34/51  53/149 
+Feature  1 (False):   17/51  96/149 
+Feature  2 (True) :   30/51  86/149 
+Feature  2 (False):   21/51  63/149 
+Feature  3 (True) :   23/51  51/149 
+Feature  3 (False):   28/51  98/149 
+Feature  4 (True) :   31/51  59/149 
+Feature  4 (False):   20/51  90/149 
+Feature  5 (True) :   25/51  50/149 
+Feature  5 (False):   26/51  99/149 
+Feature  6 (True) :   18/51  70/149 
+Feature  6 (False):   33/51  79/149 
+Feature  7 (True) :   40/51  75/149 
+Feature  7 (False):   11/51  74/149 
+Feature  8 (True) :   39/51  52/149 
+Feature  8 (False):   12/51  97/149 
+Feature  9 (True) :   17/51  36/149 
+Feature  9 (False):   34/51  113/149 
+Feature 10 (True) :   34/51  43/149 
+Feature 10 (False):   17/51  106/149 
+Feature 11 (True) :   34/51  87/149 
+Feature 11 (False):   17/51  62/149 
+Feature 12 (True) :   40/51  50/149 
+Feature 12 (False):   11/51  99/149 
+
+-----   Finished printing features values    -----
+
+-----   Test Data   -----
+
+Probability Spam: 0.649%, Probability Not spam: 99.351%. Probably: Not Spam.
+Probability Spam: 57.441%, Probability Not spam: 42.559%. Probably: Spam.
+Probability Spam: 59.337%, Probability Not spam: 40.663%. Probably: Spam.
+Probability Spam: 0.860%, Probability Not spam: 99.140%. Probably: Not Spam.
+Probability Spam: 39.097%, Probability Not spam: 60.903%. Probably: Not Spam.
+Probability Spam: 55.245%, Probability Not spam: 44.755%. Probably: Spam.
+Probability Spam: 1.035%, Probability Not spam: 98.965%. Probably: Not Spam.
+Probability Spam: 13.577%, Probability Not spam: 86.423%. Probably: Not Spam.
+Probability Spam: 83.465%, Probability Not spam: 16.535%. Probably: Spam.
+Probability Spam: 2.882%, Probability Not spam: 97.118%. Probably: Not Spam.
+
+-----   Finished Running Test Data   -----

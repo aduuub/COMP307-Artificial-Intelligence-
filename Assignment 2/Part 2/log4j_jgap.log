@@ -1,0 +1,38 @@
+[08.05.2017 14:04:52,565] [main] INFO  org.jgap.gp.impl.GPGenotype  - Creating initial population
+[08.05.2017 14:04:52,570] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free: 245.5 MB
+[08.05.2017 14:04:52,578] [main] INFO  org.jgap.gp.impl.GPPopulation  - Prototype program set
+[08.05.2017 14:04:52,617] [main] INFO  org.jgap.gp.impl.GPGenotype  - Mem free after creating population: 245.5 MB
+[08.05.2017 14:04:52,619] [main] INFO  org.jgap.gp.impl.GPGenotype  - Your configuration does not contain unused commands, this is good
+[08.05.2017 14:04:52,682] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 63.92
+[08.05.2017 14:04:52,683] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X ^ 2.0) * (4.0 - X)
+[08.05.2017 14:04:52,683] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 2
+[08.05.2017 14:04:52,798] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 49.49
+[08.05.2017 14:04:52,798] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X * 4.0) * X) - (X * 4.0)
+[08.05.2017 14:04:52,799] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[08.05.2017 14:04:52,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 43.70
+[08.05.2017 14:04:52,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X * X) + ((X * X) / (3.0 ^ X))
+[08.05.2017 14:04:52,825] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[08.05.2017 14:04:52,914] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 39.62
+[08.05.2017 14:04:52,914] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X * X) + (((X * X) - X) - ((X ^ 3.0) * (2.0 - X)))) - X
+[08.05.2017 14:04:52,914] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 5
+[08.05.2017 14:04:52,953] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 32.50
+[08.05.2017 14:04:52,953] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X * X) - X) - ((X ^ 3.0) * (2.0 - X))
+[08.05.2017 14:04:52,953] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[08.05.2017 14:04:52,969] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 20.00
+[08.05.2017 14:04:52,970] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: ((X * X) - X) * ((X * X) - X)
+[08.05.2017 14:04:52,970] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 3
+[08.05.2017 14:04:53,275] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 18.75
+[08.05.2017 14:04:53,275] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X * X) + ((X / 6.0) + ((X * X) * (((X * X) - X) - X)))
+[08.05.2017 14:04:53,276] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[08.05.2017 14:04:53,434] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 18.50
+[08.05.2017 14:04:53,434] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X * X) + ((X / 5.0) + ((X * X) * (((X * X) - X) - X)))
+[08.05.2017 14:04:53,435] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[08.05.2017 14:04:53,458] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 17.50
+[08.05.2017 14:04:53,458] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (X * X) + ((X / 3.0) + ((X * X) * (((X * X) - X) - X)))
+[08.05.2017 14:04:53,458] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[08.05.2017 14:04:54,194] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[08.05.2017 14:04:54,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (8.0 - 7.0) + (((((X * X) - X) * ((X * X) - X)) + X) - X)
+[08.05.2017 14:04:54,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
+[08.05.2017 14:04:54,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution fitness: 0.0
+[08.05.2017 14:04:54,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Best solution: (8.0 - 7.0) + (((((X * X) - X) * ((X * X) - X)) + X) - X)
+[08.05.2017 14:04:54,195] [main] INFO  org.jgap.gp.impl.GPGenotype  - Depth of chrom: 6
